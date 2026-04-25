@@ -13,7 +13,7 @@ A computational workflow was developed to extract, clean, and process variant da
 
 By combining diverse genomic data with computational prediction methods, this project aims to contribute to improved variant interpretation and support more equitable genomic risk assessment across underrepresented populations.
 
-#### **************************************************** IMPORTANT NOTE *****************************************************
+#### *************************************************** IMPORTANT NOTE ****************************************************
 * Workflows were developed using the All of Us Researcher Workbench
 * No All of Us participant-level data is included
 * Users must have appropriate authorization to run similar analyses within the Workbench
