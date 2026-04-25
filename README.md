@@ -18,7 +18,7 @@ By combining diverse genomic data with computational prediction methods, this pr
 * No All of Us participant-level data is included
 * Users must have appropriate authorization to run similar analyses within the Workbench
 
-For more information go to [allofus.org](allofus.org) or visit [Using the All of Us Researcher Workbench](https://support.researchallofus.org/hc/en-us/sections/360007809192-Using-the-All-of-Us-Researcher-Workbench) for a overview of the workspace highlighted in this project
+For more information go to [researchallofus.org](https://www.researchallofus.org/) or visit [Using the All of Us Researcher Workbench](https://support.researchallofus.org/hc/en-us/sections/360007809192-Using-the-All-of-Us-Researcher-Workbench) for a overview of the workspace highlighted in this project
 #### ************************************************************************************************************************
 
 ## Script Summaries
